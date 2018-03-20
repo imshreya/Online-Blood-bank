@@ -10,7 +10,7 @@
   <h2><u>When someone needs to check blood availability</u>:-</h2>
   ![Flow chart1](https://github.com/imshreya/Online-Blood-bank/blob/master/flowchart1.JPG)
    
-    <h2><u>When Blood Banks/Hospitals need Blood</u>:-</h2>
-    ![Flow chart1](https://github.com/imshreya/Online-Blood-bank/blob/master/flowchar2.JPG)
+  <h2><u>When Blood Banks/Hospitals need Blood</u>:-</h2>
+  ![Flow chart1](https://github.com/imshreya/Online-Blood-bank/blob/master/flowchar2.JPG)
 </body>
 </html>
