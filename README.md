@@ -8,6 +8,6 @@
     <li>Creation of special login mechanism for all the hospitals and blood banks through which they can handle the request for donors made by the recipients and can intimidate the former about the need by fetching donor information available in the centralized database. This will ensure safety of the donor’s details and avoid fake requests.</li>
   </ul>
       <h2><u>When someone needs to check blood availability</u>:-</h2>
-  <img src="https://github.com/imshreya/Online-Blood-bank/flowchart1.jpg" alt="flow chart" height="42" width="42">
+  <img src="https://github.com/imshreya/Online-Blood-bank/flowchart1.jpg" alt="flow chart">
 </body>
 </html>
