@@ -18,5 +18,13 @@ Flow chart3-https://github.com/imshreya/Online-Blood-bank/blob/master/flowchart3
 
 <h3>P.S:-</h3>
 <P>For registration purpose all the users will have to enter their Aadhar card details also. This will ensure no fake registration takes place and only authenticated users can register for donation of blood</P>
+
+<h4 style="text-decoration:underline;">NOTE:-</h4>
+<P>Please run <b>hackathon_home_page.php</b> file to get the results.<br>
+ <ul>
+     <li><b>This is just a Prototype, not the Actual project to be executed.</b></li>
+     <li><b>Few Configurations would be required once the Prototype is Accepted.</b></li>
+ </ul>
+</P>
 </body>
 </html>
