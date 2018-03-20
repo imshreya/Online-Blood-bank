@@ -2,7 +2,9 @@
 <html>
 <body>
   <li>
-    <ul>Creation of an Online Blood Bank Portal which provides access to the availability of blood in all the nearby blood banks at one place to all the people who are in urgent need of blood.
+    <ul>Creation of an Online Blood Bank Portal which provides access to the availability of blood in all the nearby blood banks at one place to all the people who are in urgent need of blood.</ul>
+    <ul>Donors can access all the details of any ongoing Blood Donation Camp in their nearby area at any given time and can have their voluntary registration for donation by authenticating themselves through their Aadhar Number login.</ul>
+    <ul>Creation of special login mechanism for all the hospitals and blood banks through which they can handle the request for donors made by the recipients and can intimidate the former about the need by fetching donor information available in the centralized database. This will ensure safety of the donor’s details and avoid fake requests.
 </ul>
   </li>
 </body>
