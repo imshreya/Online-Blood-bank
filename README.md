@@ -9,6 +9,6 @@
   </ul>
       <h2><u>When someone needs to check blood availability</u>:-</h2>
  
-  ![Flow Chart1](https://github.com/imshreya/Online-Blood-bank/to/flowchart1.jpg)
+  ![Flow Chart1](https://github.com/imshreya/Online-Blood-bank/to/flowchart1.jpg?raw=true)
 </body>
 </html>
