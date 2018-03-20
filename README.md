@@ -7,10 +7,12 @@
     <li>Donors can access all the details of any ongoing Blood Donation Camp in their nearby area at any given time and can have their voluntary registration for donation by authenticating themselves through their Aadhar Number login.</li>
     <li>Creation of special login mechanism for all the hospitals and blood banks through which they can handle the request for donors made by the recipients and can intimidate the former about the need by fetching donor information available in the centralized database. This will ensure safety of the donor’s details and avoid fake requests.</li>
   </ul>
-  <h2><u>When someone needs to check blood availability</u>:-</h2>
-  ![Flow chart1](https://github.com/imshreya/Online-Blood-bank/blob/master/flowchart1.JPG)
+<h2><u>When someone needs to check blood availability</u>:-</h2>
+![Flow chart1](https://github.com/imshreya/Online-Blood-bank/blob/master/flowchart1.JPG)
    
-  <h2><u>When Blood Banks/Hospitals need Blood</u>:-</h2>
-  ![Flow chart1](https://github.com/imshreya/Online-Blood-bank/blob/master/flowchar2.JPG)
+<h2><u>When Blood Banks/Hospitals need Blood</u>:-</h2>
+![Flow chart1](https://github.com/imshreya/Online-Blood-bank/blob/master/flowchar2.JPG)
+
+
 </body>
 </html>
