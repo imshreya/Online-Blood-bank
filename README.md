@@ -9,9 +9,6 @@
   </ul>
   <h2><u>When someone needs to check blood availability</u>:-</h2>
  ![Flow Chart1](/flowchart1.JPG)
-  <h2><u>When Blood Banks/Hospitals need Blood</u>:-</h2>
- ![Flow Chart2](/flowchar2.JPG)
-  <h3><u>For Voluntary Donors :-<u></h2>
- ![Flow Chart3](flowchart3.JPG)   
+   
 </body>
 </html>
