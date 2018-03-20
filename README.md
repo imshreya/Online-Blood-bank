@@ -7,8 +7,11 @@
     <li>Donors can access all the details of any ongoing Blood Donation Camp in their nearby area at any given time and can have their voluntary registration for donation by authenticating themselves through their Aadhar Number login.</li>
     <li>Creation of special login mechanism for all the hospitals and blood banks through which they can handle the request for donors made by the recipients and can intimidate the former about the need by fetching donor information available in the centralized database. This will ensure safety of the donor’s details and avoid fake requests.</li>
   </ul>
-      <h2><u>When someone needs to check blood availability</u>:-</h2>
- 
-  ![Flow Chart1](/flowchart1.JPG)
+  <h2><u>When someone needs to check blood availability</u>:-</h2>
+ ![Flow Chart1](/flowchart1.JPG)
+  <h2><u>When Blood Banks/Hospitals need Blood</u>:-</h2>
+ ![Flow Chart2](/flowchar2.JPG)
+  <h3><u>For Voluntary Donors :-<u></h2>
+ ![Flow Chart3](flowchart3.JPG)   
 </body>
 </html>
