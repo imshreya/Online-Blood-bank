@@ -1,0 +1,109 @@
+
+body{
+background-image:url(/friends/Images/Reg-BG.jpg);
+font-size:87.5%;
+font-family:Arial, Helvetica, sans-serif;
+line-height:1.5;
+text-align:left;
+}
+
+.body{
+width:90%;
+height:700px;
+}
+a{
+text-decoration:none;
+}
+
+.body{
+margin:0 auto;
+}
+.logo{
+width:400px;
+}
+.logo img{
+margin-left:60px;
+width:50px;
+height:50px;
+margin:auto;
+overflow:hidden;
+float:left;
+}
+
+
+.ls{text-align:right;
+margin-right:0;}
+
+.ls a:link{
+ color:#FF6600;
+}
+.navbar {
+    overflow: hidden;
+    background-color:#FF6600;
+    font-family: Arial;
+	margin-top:30px;
+	
+}
+
+.navbar a {
+    margin-top:auto;
+	margin-left:auto;
+    float: left;
+    font-size: 16px;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration:none;
+	position:relative;
+}
+.navbar a:hover{
+    background-color:red;
+}
+
+.navbar a:link,a:active{
+ color:#FFFFFF;
+}
+
+
+
+
+.para3{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#FFFF00;
+margin-left:0;
+}
+
+.Footer{
+width:100%
+height:10%;
+margin-top:5%  auto;
+float:left;
+margin-left:0;
+border-radius:5px;
+-moz-border-radius:5px;
+-webkit-border-radius:5px;
+}
+
+.Footer a:link,a:visited{
+color:#FFF;
+display:inline-block;
+padding:10px 25px;
+height:20px;
+margin-left:3%;
+margin-right:3%;
+
+}
+
+.Footer a:hover,a:active{
+background-color:#FF0000;
+text-shadow:none;
+border-radius:5px;
+-moz-border-radius:5px;
+-webkit-border-radius:5px;
+
+}
+
+
+.footertable{
+margin-top:3%;
+}
