@@ -13,8 +13,8 @@
   <h2><u>When Blood Banks/Hospitals need Blood</u>:-</h2>
  ![Flow Chart2](/flowchar2.JPG)
  
-  <h3><u>For Voluntary Donors :-<u></h2>
- ![Flow Chart3](flowchart3.JPG)  
+  <h3><u>For Voluntary Donors</u>:-</h2>
+ ![Flow Chart3](/flowchart3.JPG)  
    
 </body>
 </html>
