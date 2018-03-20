@@ -16,5 +16,7 @@ Flow chart2-https://github.com/imshreya/Online-Blood-bank/blob/master/flowchar2.
 <h2><u>For Voluntary Donors</u>:-</h2>
 Flow chart3-https://github.com/imshreya/Online-Blood-bank/blob/master/flowchart3.JPG
 
+<h3>P.S:-</h3>
+<P>For registration purpose all the users will have to enter their Aadhar card details also. This will ensure no fake registration takes place and only authenticated users can register for donation of blood</P>
 </body>
 </html>
